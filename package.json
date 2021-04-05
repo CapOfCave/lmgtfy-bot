@@ -4,7 +4,8 @@
   "description": "Discord bot that uses google for you",
   "main": "app.js",
   "scripts": {
-    "start": "node src/app.js"
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
   },
   "repository": {
     "type": "git",
@@ -20,5 +21,6 @@
   "dependencies": {
     "discord.js": "^12.5.3",
     "dotenv": "^8.2.0"
-  }
+  },
+  "devDependencies": {}
 }
