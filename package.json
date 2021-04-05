@@ -1,0 +1,24 @@
+{
+  "name": "lmgtfy-bot",
+  "version": "1.0.0",
+  "description": "Discord bot that uses google for you",
+  "main": "app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CapOfCave/lmgtfy-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CapOfCave/lmgtfy-bot/issues"
+  },
+  "homepage": "https://github.com/CapOfCave/lmgtfy-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^8.2.0"
+  }
+}
