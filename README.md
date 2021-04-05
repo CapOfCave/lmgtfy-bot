@@ -1,5 +1,7 @@
 # lmgtfy-bot
-Discord bot that uses google for you 
+Discord bot that uses google for you.
+
+This bot will reply to a question with a link to that question searched on google.
 
 ## Usage
 In order to use this bot, simply reply to a message with the 🤨 emoji. The bot will do the rest.
